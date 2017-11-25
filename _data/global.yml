@@ -3,12 +3,13 @@ title: "Hi! Welcome to HaML's Lab!"
 description: "I'm a software developer at eBay. I facinated with ML, Internet of things for data."
 url: 'http://hamelmoon.github.io/' # the base hostname & protocol for your site
 nav: "true"
-footer_text: '© 2017 Hamel Yeongho Moon'
+footer_text: '© 2017 Hamel'
 twitter: ''
 github: 'hamelmoon'
-medium: 'blog.jamigibbs.com'
+medium: ''
+facebook: 'hamelmoon'
 
 # Admin Settings
-admin_name: 'Hamel Yeongho Moon'
+admin_name: 'HaML's Lab
 admin_email: 'hamelmoon@gmail.com'
 google_analytics: "UA-43019844-1" # Update with your own tracking ID
