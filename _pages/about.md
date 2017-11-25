@@ -4,7 +4,7 @@ title: About
 permalink: /about/
 ---
 
-## Hello World!
+## Hello HaML's Lab!
 --
 
-Comment
+Loding...
