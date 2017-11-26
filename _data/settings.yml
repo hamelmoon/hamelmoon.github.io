@@ -1,0 +1,24 @@
+title:  HamML's Lab
+tagline:  "Hamel's Research Achievement"
+
+# Authors documented under _data
+
+# Change to true for Disqus comments
+disqus:
+  comments: false
+  disqus_shortname: 'https-hamelmoon-github-io'
+
+google-ID: 'UA-43019844-1'
+
+menu:
+- {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Latest work', path: 'menu', url: 'work.html'}
+- {name: 'People', path: 'menu', url: 'people.html'}
+- {name: 'Contact', path: 'menu', url: 'contact.html'}
+
+# Available social icons are powered by Font Awesome, so you can use any icon that they offer
+social:
+- {icon: 'github', link: 'https://www.github.com/hamelmoon'}
+- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yeongho-moon-11862975/'}
+- {icon: 'envelope', link: 'mailto:hamelmoon@gmail.com'}
+- {icon: 'rss-square', link: 'feed.xml'}
