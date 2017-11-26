@@ -1,4 +1,0 @@
-main:
-    - { url: '/', text: 'Eng' }
-    - { url: '/ko', text: 'Korean' }    
-    - { url: '/about', text: 'About' }
