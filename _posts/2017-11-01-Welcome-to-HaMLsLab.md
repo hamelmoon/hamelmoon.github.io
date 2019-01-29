@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Welcome to HaML's Lab!"
+title: "Welcome to HaML's Note!"
 author: "Hamel Yeongho Moon"
 categories: journal
 tags: [documentation,greetinh]
@@ -10,4 +10,4 @@ image:
   creditlink: ""
 ---
 
-HaML's Lab 준비중
+HaML's Note 준비중

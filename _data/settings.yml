@@ -1,5 +1,5 @@
-title:  HamL's Lab
-tagline:  "Hamel's Research Achievement"
+title:  HaML's TECH Note
+tagline:  "Stop Wasting Time!"
 
 # Authors documented under _data
 
@@ -12,13 +12,14 @@ google-ID: 'UA-43019844-1'
 
 menu:
 - {name: 'About', path: 'menu', url: 'about.html'}
+- {name: 'Note', path: 'menu', url: 'work.html'}
 - {name: 'Latest work', path: 'menu', url: 'work.html'}
-- {name: 'People', path: 'menu', url: 'people.html'}
+- {name: 'Writers', path: 'menu', url: 'writers.html'}
 - {name: 'Contact', path: 'menu', url: 'contact.html'}
 
 # Available social icons are powered by Font Awesome, so you can use any icon that they offer
 social:
-- {icon: 'github', link: 'https://www.github.com/hamelmoon'}
-- {icon: 'linkedin', link: 'https://www.linkedin.com/in/yeongho-moon-11862975/'}
+# - {icon: 'github', link: 'https://www.github.com/hamelmoon'}
+# - {icon: 'linkedin', link: 'https://www.linkedin.com/in/yeongho-moon-11862975/'}
 - {icon: 'envelope', link: 'mailto:hamelmoon@gmail.com'}
 - {icon: 'rss-square', link: 'feed.xml'}
